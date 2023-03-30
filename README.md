@@ -17,7 +17,7 @@
   2) Juction
   3) Vehicles
   4) ID
-
+- Before analyzing the data, I would use Rust to preprocess and clean the data.
 
 ## References
 
